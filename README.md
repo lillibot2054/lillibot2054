@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lillibot2054&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <strong> 🏆 GitHub Trophies</strong>
+<br>
 ![](https://github-profile-trophy.vercel.app/?username=lillibot2054&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <strong> 🔝 Top Contributed Repo </strong>
