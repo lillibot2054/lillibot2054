@@ -14,7 +14,6 @@
 
 <strong> 🏆 GitHub Trophies</strong>
 <br>
-
 <br>
 ![](https://github-profile-trophy.vercel.app/?username=lillibot2054&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
